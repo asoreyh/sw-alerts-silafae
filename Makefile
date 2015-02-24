@@ -1,4 +1,4 @@
-base=Space_Weather_Alerts_for_Air_Navigation_Pinilla_Asorey_Nunez
+base=Pinilla_Asorey_Nunez
 version=
 name=${base}${version}
 all:
